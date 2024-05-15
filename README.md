@@ -28,7 +28,7 @@ Our vision is to create a vibrant and thriving ecosystem where every voice is he
 ## Governance and Tokenomics
 
 Central to the effectiveness of IERC DAO is a robust governance structure and carefully crafted tokenomics. Governance within IERC DAO is predicated on the principles of decentralization, transparency, and community empowerment. The governance framework is designed to enable stakeholders to participate in the decision-making process, propose initiatives, and vote on key proposals. Through active participation and transparent governance mechanisms, stakeholders are empowered to shape the future direction of the IERC ecosystem.
-Tokenomics plays a pivotal role in aligning incentives and rewarding valuable contributions within the IERC DAO ecosystem. The native governance token, $ethi, serves as a tool for governance and value capture, enabling token holders to participate in decision-making processes and receive rewards for their contributions.
+Tokenomics plays a pivotal role in aligning incentives and rewarding valuable contributions within the IERC DAO ecosystem. The native governance inscription, $ethi, serves as a tool for governance and value capture, enabling inscription holders to participate in decision-making processes and receive rewards for their contributions.
 
 ## Stakeholders
 
@@ -45,7 +45,7 @@ Community Members are individuals who hold IERC DAO's inscription, $ethi. These 
 
 **Working Groups, Stewards, and Contributors**
 
-IERC DAO establishes various working groups to advance its mission and vision. Each working group is led by a designated steward, responsible for defining the group's structure, setting specific KPIs, and assigning tasks. Contributors within these working groups may hold different roles, levels of responsibility, and engagement. Compensation for contributors is determined on a case-by-case basis and may include a combination of $ethi tokens and stablecoins.
+IERC DAO establishes various working groups to advance its mission and vision. Each working group is led by a designated steward, responsible for defining the group's structure, setting specific KPIs, and assigning tasks. Contributors within these working groups may hold different roles, levels of responsibility, and engagement. Compensation for contributors is determined on a case-by-case basis and may include a combination of $ethi inscriptions and stablecoins.
 Active Working Groups:
 
 - Operations
@@ -65,7 +65,7 @@ IERC DAO's working groups operate on a quarterly basis, emphasizing transparency
 
 **Service Providers**
 
-Service providers engaged by IERC DAO include professionals offering a range of services such as technical development, NFT development, and more. Compensation for these services may be provided in stablecoins, $ethi tokens, or a combination thereof, with terms decided on a case-by-case basis.
+Service providers engaged by IERC DAO include professionals offering a range of services such as technical development, NFT development, and more. Compensation for these services may be provided in stablecoins, $ethi inscriptions, or a combination thereof, with terms decided on a case-by-case basis.
 
 ## Staking
 
@@ -79,7 +79,7 @@ Within the expansive landscape of decentralized governance and community-driven 
 
 GitHub provides transparency into the development process of IERC DAO. Users can track the progress of development tasks, review issues, and participate in discussions around IERC features and enhancements. This transparency fosters community engagement and encourages collaboration among developers and stakeholders.
 
-- Issue Tracking and Proposal Submission: Users can leverage GitHub's issue tracking system to submit proposals, report bugs, or suggest improvements to the IERC DAO. By opening an issue on GitHub, users can provide detailed descriptions of their proposals or concerns, including relevant information and supporting arguments. This allows for structured communication and facilitates the review process by DAO members and contributors.
+- Issue Tracking and Proposal Submission: Users can leverage GitHub's issue tracking system to submit proposals, report bugs, or suggest improvements to the IERC DAO. By opening an issue on GitHub, users can provide detailed descriptions of their proposals or concerns, including relevant information and supporting arguments. This allows for structured communication and facilitates the DAO members' and contributors' review process.
 - Snapshot for Decentralized Governance: Once an issue or proposal is submitted on GitHub, users can then proceed to Snapshot for decentralized governance and voting. Snapshot allows inscription holders to participate in on-chain voting on proposals, governance decisions, and resource allocation. Users can use Snapshot to cast their votes on GitHub proposals, providing a decentralized mechanism for decision-making within the DAO.
 
 ### Snapshot
@@ -116,13 +116,13 @@ IERC DAO will also utilize a soft governance mechanism via Snapshot to streamlin
 
 - Duration: 3 Days.
 - Tool: GitHub
-- Proposals are posted on IERC DAO's GitHub for further discussion and refinement. IERC Core Team, Committee Members, and the proposer will have a further discuss to make the proposal more feasible. There should be at least 1 online meeting. 
+- Proposals are posted on IERC DAO's GitHub for further discussion and refinement. Committee Members, and the proposer will have a further discuss to make the proposal more feasible. There should be at least 1 online meeting. 
 - If the proposal has been denied, there should be a comment and specific reason why it has been denied. 
 
 **Phase III: Consensus**
 - Duration: 7 Days.
 - Tool: Snapshot.
-- Phase II proposals with majority support progress to Phase III.
+- Phase II proposals, with the majority supporting progress to Phase III.
 - Phase III proposals require majority approval with a 5% quorum of the circulating inscription supply through inscription-based voting.
 
 ### Proposal Issue Template 
