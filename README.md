@@ -37,7 +37,7 @@ IERC DAO is structured as follows:
 
 **Committee Members**
 
-Senior Committee Members are individuals who resonate with the mission and vision of IERC DAO and wish to contribute. They have access to IERC DAO's open activities and discussions on platforms like Discord and Telegram. These members can engage with the DAO by participating in bounties and other opportunities and possessing governance rights.
+Committee Members are individuals who resonate with the mission and vision of IERC DAO and wish to contribute. They have access to IERC DAO's open activities and discussions on platforms like Discord and Telegram. These members can engage with the DAO by participating in bounties and other opportunities and possessing governance rights.
 
 **Community Members**
 
